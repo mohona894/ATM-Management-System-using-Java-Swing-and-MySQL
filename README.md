@@ -41,28 +41,6 @@ OOP Principles Applied:
 | Polymorphism      | Event-driven actions vary across different components |
 
 
-Project Structure:
-ATM-Management-System/
-│
-├── src/
-│   ├── Login.java
-│   ├── MainMenu.java
-│   ├── Deposit.java
-│   ├── Withdraw.java
-│   ├── BalanceInquiry.java
-│   ├── PinChange.java
-│   ├── MiniStatement.java
-│   └── DBConnection.java
-│
-├── database/
-│   └── atm_database.sql
-│
-├── lib/
-│   └── external libraries (jcalendar, etc.)
-│
-└── README.md
-
-
 Database Design:
 Main tables used in the system:
 * `users` – stores card number, PIN, and user details

@@ -1,4 +1,4 @@
-Project Name: ATM-Management-System-using-Java-Swing-and-MySQL
+## ATM-Management-System-using-Java-Swing-and-MySQL
 
 A desktop-based ATM simulation system developed in Java with an interactive Swing GUI and a MySQL database connected through JDBC.
 The system replicates real-world ATM operations including authentication, transactions, PIN management, and transaction history.
